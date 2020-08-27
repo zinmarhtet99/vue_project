@@ -1,0 +1,16 @@
+Compontnt
+---------
+=> template => HTML
+=> script => Javascript
+=> style => CSS
+===============================
+
+Entry Point
+-----------
+
+=> main.js
+-> create new instance(object)
+-> render APP.vue(parent component)
+=> APP.vue
+-> compontnts/HelloWorld.vue (child)
+-> props nat data catch loat => data a ser
